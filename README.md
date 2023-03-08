@@ -1,4 +1,4 @@
-# octopy formerly octopus
+# Octopy
 Octopy is SECoP in a publish/subscribe, topics based environment: an industrial IOT centered solution with an EPICS connection.
 
 At https://gitlab.esss.lu.se/mesi/octopy you can find a SECoP implementation that came to existence due to the need of marrying EPICS PV:s with SECoP.
